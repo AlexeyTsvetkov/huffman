@@ -13,7 +13,9 @@ make
 
 # Usage
 
+```bash
 arj [-c|-d] -i INPUT_FILE -o OUTPUT_FILE
+```
 
 Parameters:
 * -c -- compress
